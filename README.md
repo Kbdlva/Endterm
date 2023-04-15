@@ -3,7 +3,7 @@ DBMS PART-2 endterm project
 
 
 Our EDR: 
-https://drive.google.com/file/d/1ZubtZc2Lx5f-ZJU0E7T9lOgaeWJnSGlQ/view?usp=sharing
+https://drive.google.com/file/d/1TshznYT1hAdwOaO6sNPhxODr-nNuuRvl/view?usp=sharing
 
 
 
